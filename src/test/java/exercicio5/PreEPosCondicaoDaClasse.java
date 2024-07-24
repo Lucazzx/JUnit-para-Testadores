@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class PreEPosCondicaodaClasse {
+public class PreEPosCondicaoDaClasse {
 	
 	@BeforeClass
 	public static void setupClass() {
